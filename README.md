@@ -1,6 +1,6 @@
 # InternetConnectionChecker
 
-A new Flutter project.
+Implemented Internet Connection Checker for an App. With Global state using flutter_bloc,connectivity_plus,internet_connection_checker,freezed,build_runner,freezed_annotation
 
 ## Getting Started
 

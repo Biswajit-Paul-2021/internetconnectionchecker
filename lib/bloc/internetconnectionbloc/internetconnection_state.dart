@@ -7,6 +7,4 @@ class InternetconnectionState with _$InternetconnectionState {
 
   factory InternetconnectionState.initial({required bool isCon}) =>
       InternetconnectionState(isConnected: isCon);
-  factory InternetconnectionState.upDate({required bool isCon}) =>
-      InternetconnectionState(isConnected: isCon);
 }
